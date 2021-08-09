@@ -1,0 +1,26 @@
+body {
+    margin: 20px auto;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(73, 73, 73);
+}
+
+h1 {
+    font-size: 54px;
+    letter-spacing: 26px;
+}
+
+p {
+    font-size: 20px;
+    letter-spacing: 11px;
+    font-weight: bold;
+}
+
+h3 {
+    font-weight: bold;
+}
+
+input {
+
+    margin-right: 15px;
+}
